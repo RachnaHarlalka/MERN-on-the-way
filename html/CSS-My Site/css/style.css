@@ -1,0 +1,26 @@
+/* body{
+    background-color: aqua;
+} */
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+div{
+    height: 200px;
+    width: 200px;
+    padding: 45px;
+    margin: 20px;
+
+}
+.topContainer{
+background-color: chartreuse;
+}
+
+.bottomContainer{
+background-color: brown;
+}
+
+.middleContainer{
+     background-color: blue;
+}
